@@ -1,3 +1,11 @@
+# Ruby coursework: General Assembly, 2016
+
+Njenga Kariuki's exercises from General Assembly's Back-End Web Development course in San Francisco. The repository includes early Ruby work on user input, methods, arrays, hashes and a car-matching exercise.
+
+**Learning archive.** Original exercises and course instructions are preserved below. This is a record of the learning process, including unfinished work; the exercises have not been revalidated on a current Ruby environment.
+
+## Original course instructions
+
 BEWD_SF_13 Homework Repository
 =============================
 
